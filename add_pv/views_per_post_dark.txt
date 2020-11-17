@@ -2,4 +2,5 @@ userPostToggleDark():
 	return num
 
 displayPostViewsDark():
+	{updated code}
 	views+=userPostToggle

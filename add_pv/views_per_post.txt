@@ -1,5 +1,7 @@
 userPostToggle():
+	{new code}
 	return num
 
 displayPostViews():
+	{updated code}
 	views+=userPostToggle
