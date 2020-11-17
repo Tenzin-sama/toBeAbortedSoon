@@ -1,0 +1,5 @@
+userPostToggle():
+	return num
+
+displayPostViews():
+	views+=userPostToggle
