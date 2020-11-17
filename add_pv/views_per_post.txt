@@ -5,3 +5,4 @@ userPostToggle():
 displayPostViews():
 	{updated code}
 	views+=userPostToggle
+	{new code}
